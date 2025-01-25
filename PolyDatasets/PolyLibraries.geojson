@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "PolyLibraries",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Accursio", "MUNICIPIO": "8", "Indirizzo": "Piazzale Accursio 5", "Neighborhood": "Villapizzone" }, "geometry": { "type": "Point", "coordinates": [ 9.14615, 45.491398 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Affori", "MUNICIPIO": "9", "Indirizzo": "Viale Affori 21", "Neighborhood": "Affori" }, "geometry": { "type": "Point", "coordinates": [ 9.167394, 45.516629 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Baggio (sede provv. P.zza Stovani 3)", "MUNICIPIO": "7", "Indirizzo": "sede provv. P.zza Stovani 3", "Neighborhood": "Baggio" }, "geometry": { "type": "Point", "coordinates": [ 9.091209, 45.463178 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Bibliobus", "MUNICIPIO": "4", "Indirizzo": "Via Bezzecca 18", "Neighborhood": "XXII Marzo" }, "geometry": { "type": "Point", "coordinates": [ 9.213189, 45.460661 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Biblioteca Crescenzago (sede provv. P.le Governo Provvisorio 9)", "MUNICIPIO": "2", "Indirizzo": "sede provv. P.le Governo Provvisorio 9", "Neighborhood": "Padova" }, "geometry": { "type": "Point", "coordinates": [ 9.225293, 45.49825 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Calvairate", "MUNICIPIO": "4", "Indirizzo": "Via Ciceri Visconti 1", "Neighborhood": "Umbria - Molise" }, "geometry": { "type": "Point", "coordinates": [ 9.22065, 45.455762 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Cassina Anna", "MUNICIPIO": "9", "Indirizzo": " Via Sant'Arnaldo 17", "Neighborhood": "Bruzzano" }, "geometry": { "type": "Point", "coordinates": [ 9.177166, 45.524983 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Chiesa Rossa", "MUNICIPIO": "5", "Indirizzo": "Via San Domenico Savio 3", "Neighborhood": "Stadera" }, "geometry": { "type": "Point", "coordinates": [ 9.174036, 45.43043 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Dergano Bovisa", "MUNICIPIO": "9", "Indirizzo": "Via Baldinucci 76", "Neighborhood": "Bovisa" }, "geometry": { "type": "Point", "coordinates": [ 9.168445, 45.503666 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Fra Cristoforo", "MUNICIPIO": "5", "Indirizzo": "Via Fra Cristoforo 6", "Neighborhood": "Stadera" }, "geometry": { "type": "Point", "coordinates": [ 9.171878, 45.436191 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Gallaratese", "MUNICIPIO": "8", "Indirizzo": "Via Quarenghi 21", "Neighborhood": "Gallaratese" }, "geometry": { "type": "Point", "coordinates": [ 9.115198, 45.496527 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Harar", "MUNICIPIO": "7", "Indirizzo": "Via Albenga 2", "Neighborhood": "San Siro" }, "geometry": { "type": "Point", "coordinates": [ 9.119611, 45.473901 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Lorenteggio", "MUNICIPIO": "6", "Indirizzo": "Via Odazio 9", "Neighborhood": "Giambellino" }, "geometry": { "type": "Point", "coordinates": [ 9.13441, 45.447564 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Niguarda", "MUNICIPIO": "9", "Indirizzo": "Via Passerini 5", "Neighborhood": "Niguarda - Cà Granda" }, "geometry": { "type": "Point", "coordinates": [ 9.193187, 45.51531 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Oglio", "MUNICIPIO": "4", "Indirizzo": "Via Oglio 18", "Neighborhood": "Lodi - Corvetto" }, "geometry": { "type": "Point", "coordinates": [ 9.21846, 45.440521 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Vigentina", "MUNICIPIO": "1", "Indirizzo": "Corso di Porta Vigentina 15", "Neighborhood": "Vigentina" }, "geometry": { "type": "Point", "coordinates": [ 9.196174, 45.454212 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Parco Sempione", "MUNICIPIO": "1", "Indirizzo": "Viale Cervantes", "Neighborhood": "Parco Sempione" }, "geometry": { "type": "Point", "coordinates": [ 9.175011, 45.474486 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Sant'Ambrogio", "MUNICIPIO": "6", "Indirizzo": "Via San Paolino 18", "Neighborhood": "Barona" }, "geometry": { "type": "Point", "coordinates": [ 9.16323, 45.431247 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Sicilia", "MUNICIPIO": "7", "Indirizzo": "Via Sacco 14", "Neighborhood": "Washington" }, "geometry": { "type": "Point", "coordinates": [ 9.152063, 45.46506 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Sormani", "MUNICIPIO": "1", "Indirizzo": "Corso di Porta Vittoria 6 ", "Neighborhood": "Guastalla" }, "geometry": { "type": "Point", "coordinates": [ 9.198145, 45.4621641 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Tibaldi", "MUNICIPIO": "5", "Indirizzo": "Viale Tibaldi 41 ", "Neighborhood": "Ticinese" }, "geometry": { "type": "Point", "coordinates": [ 9.183084, 45.444886 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Valvassori Peroni", "MUNICIPIO": "3", "Indirizzo": " Via Valvassori Peroni 56", "Neighborhood": "Città Studi" }, "geometry": { "type": "Point", "coordinates": [ 9.237198, 45.479483 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Venezia", "MUNICIPIO": "3", "Indirizzo": "Via Frisi 2/4 ", "Neighborhood": "Buenos Aires - Venezia" }, "geometry": { "type": "Point", "coordinates": [ 9.20841, 45.474884 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Villapizzone", "MUNICIPIO": "8", "Indirizzo": "Via Ferrario Grugnola 3", "Neighborhood": "Villapizzone" }, "geometry": { "type": "Point", "coordinates": [ 9.147549, 45.499305 ] } },
+{ "type": "Feature", "properties": { "Biblioteche - Sede": "Zara", "MUNICIPIO": "2", "Indirizzo": " Viale Zara 100", "Neighborhood": "Maciachini - Maggiolina" }, "geometry": { "type": "Point", "coordinates": [ 9.195927, 45.497314 ] } }
+]
+}
