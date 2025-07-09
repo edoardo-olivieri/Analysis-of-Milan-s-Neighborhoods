@@ -8,11 +8,7 @@ Team members:
 
 ## Description
 
-This project focuses on building a comprehensive database to help users identify the most suitable neighborhood in Milan based on their specific needs and preferences. <br>
-By integrating data from multiple sources, such as the **Yelp API**, official municipal datasets and queries on **Overpass Turbo**, we captured various dimensions of urban life, <br> 
-including amenities like restaurants, schools, universities, supermarkets, public transport, and parks. The data was carefully cleaned, processed, and stored in a **MongoDB database** <br>
-with an embedded document structure to enable efficient querying and analysis. This report outlines the steps taken across the **data management pipeline**, from **data acquisition** <br>
-to **spatial integration** and **quality assessment**, to create a tool that supports individuals and families in making informed decisions about relocating to Milan.
+This project focuses on building a comprehensive database to help users identify the most suitable neighborhood in Milan based on their specific needs and preferences. By integrating data from multiple sources, such as the **Yelp API**, official municipal datasets and queries on **Overpass Turbo**, we captured various dimensions of urban life,  including amenities like restaurants, schools, universities, supermarkets, public transport, and parks. The data was carefully cleaned, processed, and stored in a **MongoDB database** with an embedded document structure to enable efficient querying and analysis. This report outlines the steps taken across the **data management pipeline**, from **data acquisition** to **spatial integration** and **quality assessment**, to create a tool that supports individuals and families in making informed decisions about relocating to Milan.
 
 ## Output
 
